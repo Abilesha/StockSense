@@ -36,14 +36,6 @@ PostgreSQL 18 (Local database: localhost:5432/stocksense_db)
 
 ---
 
-## Demo Credentials
-
-- **Email**: `demo@stocksense.app`
-- **Password**: `password123`
-- **Role**: Inventory Manager
-
----
-
 ## How to Run
 
 ### Start Backend
