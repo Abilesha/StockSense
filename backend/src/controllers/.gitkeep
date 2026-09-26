@@ -1,0 +1,6 @@
+# -----------------------------------------------------------------------------
+# StockSense Controllers Directory
+# -----------------------------------------------------------------------------
+# Controllers handle incoming HTTP requests, parse query/body params, call corresponding
+# service/model layer methods, and format HTTP JSON responses.
+# -----------------------------------------------------------------------------

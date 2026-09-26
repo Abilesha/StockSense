@@ -1,0 +1,7 @@
+# -----------------------------------------------------------------------------
+# StockSense Global Integration Tests
+# -----------------------------------------------------------------------------
+# Hey team! Place full system API & Database integration tests here.
+# Integration tests verify that HTTP Express handlers execute correctly against
+# a real or test PostgreSQL database.
+# -----------------------------------------------------------------------------

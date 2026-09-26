@@ -1,0 +1,6 @@
+# -----------------------------------------------------------------------------
+# StockSense Express Middleware Directory
+# -----------------------------------------------------------------------------
+# Contains JWT authentication handlers, role authorization checkers, centralized error handlers,
+# request loggers, and payload validators.
+# -----------------------------------------------------------------------------

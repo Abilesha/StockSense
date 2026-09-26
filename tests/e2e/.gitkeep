@@ -1,0 +1,10 @@
+# -----------------------------------------------------------------------------
+# StockSense End-to-End (E2E) Test Suite
+# -----------------------------------------------------------------------------
+# Hey team! This folder is reserved for end-to-end user journey tests (e.g. Cypress or Playwright).
+# 
+# Key Scenarios to cover in E2E:
+#  1. User authentication -> Login -> Dashboard view.
+#  2. Creating a new SKU product -> Creating a Receipt Operation -> Validating Stock Balance update.
+#  3. Transferring stock between Main Warehouse and Secondary Location.
+# -----------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+# -----------------------------------------------------------------------------
+# StockSense Backend Services Directory
+# -----------------------------------------------------------------------------
+# Contains core domain logic, dynamic stock ledger calculations, double-entry validation,
+# and report computations.
+# -----------------------------------------------------------------------------
